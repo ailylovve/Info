@@ -1,0 +1,30 @@
+.body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+ 
+    font-size: 16px;
+    font-weight: normal;
+    /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;*/
+ }
+ 
+ .social {
+    background: #99ffcc;
+    padding: 10px 15px;
+    border: 5px solid red;
+    border-right-color: yellow;
+    margin: 20px ;
+ }
+
+ .margin {
+    background: #99ffcc;
+    padding: 10px 15px;
+    border: 5px solid red;
+    border-right-color: yellow;
+    margin: 20px ;
+ }
+
+ .avatar {
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+ }
